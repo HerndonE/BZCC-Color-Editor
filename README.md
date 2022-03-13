@@ -1,3 +1,5 @@
+### Steam Statistics:
+![](https://img.shields.io/steam/views/2773952426?logo=steam)![](https://img.shields.io/steam/downloads/2773952426?logo=steam)![](https://img.shields.io/steam/favorites/2773952426?logo=steam)![](https://img.shields.io/steam/subscriptions/2773952426?logo=steam)
 ## Instructions (English):
 **1.** Download program [here](https://downgit.github.io/#/home?url=https://github.com/HerndonE/BZCC-Color-Editor/blob/main/BZCC%20Color%20Editor%20Program%20Install%20Package.zip)  
 **2.** Extract "BZCC Color Editor Program Install Package".zip  
