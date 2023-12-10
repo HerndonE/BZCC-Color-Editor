@@ -1,6 +1,11 @@
-### Steam Statistics:
+# Color Editor Program for Battlezone Combat Commander
+
+### Steam Statistics :
 ![](https://img.shields.io/steam/views/2773952426?logo=steam)![](https://img.shields.io/steam/downloads/2773952426?logo=steam)![](https://img.shields.io/steam/favorites/2773952426?logo=steam)![](https://img.shields.io/steam/subscriptions/2773952426?logo=steam)
-## Instructions (English):
+
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2773952426"/> <img src="https://img.shields.io/badge/STEAM-Workshop-ff1709?style=for-the-badge&logo=steam&logoColor=white&color=3590ae&labelColor=gray"/></a>
+
+## Instructions (English) 🇺🇸 🇬🇧 🇦🇺 :
 **1.** Download program [here](https://downgit.github.io/#/home?url=https://github.com/HerndonE/BZCC-Color-Editor/blob/main/BZCC%20Color%20Editor%20Program%20Install%20Package.zip)  
 **2.** Extract "BZCC Color Editor Program Install Package".zip  
 **3.** Move "BZCC Color Editor Program" out of "BZCC Color Editor Program Install Package" to location such as
@@ -21,7 +26,7 @@
     1. Locate "dirpath.txt" in the installation folder. Open the file and replace the first line with your "addon" directory and the second line to your battlezone executable.
     2. Remove "BZCC Color Editor Program" and reinstall the program.
 
-## Instruções (Portuguese) :
+## Instruções (Portuguese) 🇧🇷 :
 **1.** Baixe o programa [aqui](https://downgit.github.io/#/home?url=https://github.com/HerndonE/BZCC-Color-Editor/blob/main/BZCC%20Color%20Editor%20Program%20Install%20Package.zip)  
 **2.** Extraia "BZCC Color Editor Program Install Package".zip  
 **3.** Mova o "BZCC Color Editor Program" do "BZCC Color Editor Program Install Package" para um local como
@@ -42,7 +47,7 @@
     1. Localize "dirpath.txt" na pasta de instalação. Abra o arquivo e substitua a primeira linha pelo diretório "addon" e a segunda linha pelo executável do battlezone.
     2. Remova o "BZCC Color Editor Program" e reinstale o programa.
 
-## Anweisungen (German):
+## Anweisungen (German) 🇩🇪:
 **1.** Programm [hier](https://downgit.github.io/#/home?url=https://github.com/HerndonE/BZCC-Color-Editor/blob/main/BZCC%20Color%20Editor%20Program%20Install%20Package.zip) herunterladen  
 **2.** Entpacken Sie das "BZCC Color Editor Program Install Package".zip  
 **3.** Verschieben Sie das "BZCC Color Editor Program" aus dem "BZCC Color Editor Program Install Package" an einen Ort wie z.B.
