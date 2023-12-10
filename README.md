@@ -47,7 +47,7 @@
     1. Localize "dirpath.txt" na pasta de instalação. Abra o arquivo e substitua a primeira linha pelo diretório "addon" e a segunda linha pelo executável do battlezone.
     2. Remova o "BZCC Color Editor Program" e reinstale o programa.
 
-## Anweisungen (German) 🇩🇪:
+## Anweisungen (German) 🇩🇪 :
 **1.** Programm [hier](https://downgit.github.io/#/home?url=https://github.com/HerndonE/BZCC-Color-Editor/blob/main/BZCC%20Color%20Editor%20Program%20Install%20Package.zip) herunterladen  
 **2.** Entpacken Sie das "BZCC Color Editor Program Install Package".zip  
 **3.** Verschieben Sie das "BZCC Color Editor Program" aus dem "BZCC Color Editor Program Install Package" an einen Ort wie z.B.
